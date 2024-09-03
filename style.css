@@ -1,0 +1,9 @@
+@font-face {
+    font-family: TerminalGrotesque;
+    src: url(font/terminal-grotesque.ttf);
+}
+
+h1 {
+    margin: 0 auto;
+    font-family: TerminalGrotesque;
+}
